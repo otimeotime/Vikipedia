@@ -1,13 +1,11 @@
 # Vikipedia
-## OOP Project in class 147839
 ### Member
 1. 20226064 Trịnh Mạnh Quỳnh
 2. 20226032 Vũ Ngọc Dũng
 3. 20226066 Lê Như Ngọc Sơn
-### Use case diagram
-![UCD](/Vikipedia/Diagram/VirusUseCaseDiagram.png)
-### How to install
-In order to run this program, you need some additional library, icluding Flatlaf, Vclj and its dependent library (check this website for more detail: https://capricasoftware.co.uk/projects/vlcj)
-We recommend you run program on Apache netbean 21
-The main program is the Application.java file locate in the raven.Application package
-Video demo: https://youtu.be/y4LlBiOe8-U
+   
+### How to install (Intellij and Apache Netbean are recommended)
+1. Pull the repo into the local machine
+2. Add dependency files to the project from the "Dependency" folder in the repo
+3. Run the Application.java file
+Note: This project does not have a database, so in order to push everything to github, we have to remove the video files from the repository, thus the video functionality will not able to work.
