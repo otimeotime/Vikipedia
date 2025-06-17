@@ -1,8 +1,8 @@
 # Vikipedia
 ### Member
-1. 20226064 Trịnh Mạnh Quỳnh
-2. 20226032 Vũ Ngọc Dũng
-3. 20226066 Lê Như Ngọc Sơn
+1. Trịnh Mạnh Quỳnh
+2. Vũ Ngọc Dũng
+3. Lê Như Ngọc Sơn
    
 ### How to install (Intellij and Apache Netbean are recommended)
 1. Pull the repo into the local machine
